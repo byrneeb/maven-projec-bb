@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.mule.api.MuleEvent;
 import org.mule.tck.junit4.FunctionalTestCase;
 
-import com.mchange.util.AssertException;
 
 
 public class HelloMavenTest extends FunctionalTestCase {
